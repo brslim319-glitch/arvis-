@@ -1,0 +1,32 @@
+# Core dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# DNS and Network
+dnspython>=2.4.0
+python-whois>=0.8.0
+
+# SSL/TLS
+pyOpenSSL>=23.0.0
+cryptography>=41.0.0
+
+# Port Scanning
+python-nmap>=0.7.1
+
+# Vulnerability Scanning
+sqlparse>=0.4.4
+
+# CVE Database
+nvdlib>=0.7.4
+
+# PDF Generation
+reportlab>=4.0.0
+matplotlib>=3.8.0
+Pillow>=10.0.0
+
+# Utilities
+validators>=0.22.0
+colorama>=0.4.6
+tqdm>=4.66.0
+python-dotenv>=1.0.0
